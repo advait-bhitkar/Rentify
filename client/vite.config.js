@@ -7,7 +7,7 @@ export default defineConfig({
     proxy: {
       '/api': {
         // target: 'http://localhost:3000/',
-        target: 'https://rento-rax8.onrender.com/',
+        target: 'https://rentify-r2n6.onrender.com',
 
         secure: false,
       },
